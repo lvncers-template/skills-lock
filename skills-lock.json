@@ -97,6 +97,12 @@
       "skillPath": "skills/slides/slide-slidev/SKILL.md",
       "computedHash": "48e4bf83f693742c6595688cd284614abfdad94ef601fc50b31bbd88244f9e8a"
     },
+    "submodule-remove": {
+      "source": "lvncers-template/skills",
+      "sourceType": "github",
+      "skillPath": "skills/git/submodule-remove/SKILL.md",
+      "computedHash": "e19379f7d68a2383073b568dc29efaedef16ec65f6f6e4b1a32fb503f3575962"
+    },
     "test-run": {
       "source": "lvncers-template/skills",
       "sourceType": "github",
