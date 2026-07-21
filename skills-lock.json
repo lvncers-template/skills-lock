@@ -85,6 +85,18 @@
       "skillPath": "skills/worktree/setup-init-bare/SKILL.md",
       "computedHash": "35902550c65cbcc9a1046d9820d2c3c471e8b7d8db6ffd8c722716994d0f4772"
     },
+    "slide-draft": {
+      "source": "lvncers-template/skills",
+      "sourceType": "github",
+      "skillPath": "skills/slides/slide-draft/SKILL.md",
+      "computedHash": "b1ee079372541d05aa362ab9279c2c07a9f7ad33ee2ed63d968597462b1e48a8"
+    },
+    "slide-slidev": {
+      "source": "lvncers-template/skills",
+      "sourceType": "github",
+      "skillPath": "skills/slides/slide-slidev/SKILL.md",
+      "computedHash": "48e4bf83f693742c6595688cd284614abfdad94ef601fc50b31bbd88244f9e8a"
+    },
     "test-run": {
       "source": "lvncers-template/skills",
       "sourceType": "github",
